@@ -1,0 +1,31 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Data and Databases
+*.csv
+*.json
+*.sqlite
+*.db
+data/
+
+# Secrets and Configs
+.env
+config.ini
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if you use them for data clustering/exploration)
+.ipynb_checkpoints/
+
+# Web Drivers
+chromedriver
+chromedriver.exe
