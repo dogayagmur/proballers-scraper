@@ -1,3 +1,7 @@
+# PyCharm IDE Files
+.idea/
+*.iml
+
 # Environments
 venv/
 env/
